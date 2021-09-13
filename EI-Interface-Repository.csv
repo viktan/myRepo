@@ -1,1 +1,3 @@
-
+id,integration,source,target,apisuses
+101,employeePayroll,workday,ERP,sysapi-workday|sysapi-erp|prcapi-hrpayroll
+102,employeeExpenses,workday,ERP,sysapi-workday|sysapi-erp|prcapi-empexpenses
